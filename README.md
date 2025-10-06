@@ -1,6 +1,6 @@
 # 🧩 AIHCA Components
 
-A modular library of **reusable React Native (Expo) components** built for the **AIHCA App** — *Ancient Indian History, Culture & Archaeology*, a digital learning platform by Jiwaji University.
+A modular library of **reusable React Native (Expo) components** built for the **AIHCA App** — *Ancient Indian History, Culture & Archaeology*, a digital learning platform for students of Ancient Indian History, Culture and Archaeology.
 
 ![Expo](https://img.shields.io/badge/Expo-49.0.0-000?logo=expo)
 ![React Native](https://img.shields.io/badge/React_Native-0.76-blue?logo=react)
